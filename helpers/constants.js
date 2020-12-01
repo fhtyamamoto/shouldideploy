@@ -1,9 +1,5 @@
 import Time from './time'
-import {
-  REASONS_PRAIOU,
-  REASONS_CHUVOU,
-  REASONS_WEEKDAYS
-} from './reasons'
+import { REASONS_PRAIOU, REASONS_CHUVOU, REASONS_WEEKDAYS } from './reasons'
 
 export const getRandom = function ranDay(list) {
   return list[Math.floor(Math.random() * list.length)]

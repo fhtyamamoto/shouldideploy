@@ -1,10 +1,10 @@
 export const REASONS_PRAIOU = [
-  "Não vejo por que não!",
-  "Bora",
+  'Não vejo por que não!',
+  'Bora',
   'Só vai, meu amigo!',
   'Só vamo!',
   'bora bora bora',
-  "Se joga!",
+  'Se joga!',
   'Meti o pé e fui!',
   'Como uma onda no mar 🌊',
   'Não esquece dos óculos',
@@ -17,7 +17,7 @@ export const REASONS_PRAIOU = [
 ]
 
 export const REASONS_CHUVOU = [
-  "Eu não recomendo...",
+  'Eu não recomendo...',
   'Que tal no próximo final de semana?',
   'Hoje, não',
   'Nope',
@@ -39,7 +39,7 @@ export const REASONS_CHUVOU = [
 ]
 
 export const REASONS_WEEKDAYS = [
-  "Já ouviu falar de desemprego?",
+  'Já ouviu falar de desemprego?',
   'Que tal no fim de semana?',
   'Seu chefe tá vendo!',
   'Te vejo no Sábado',

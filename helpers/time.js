@@ -92,10 +92,10 @@ export default class Time {
    */
   isWeekday() {
     return (
-      this.now().day() == 1
-      || this.now().day() == 2
-      || this.now().day() == 3
-      || this.now().day() == 4
+      this.now().day() == 1 ||
+      this.now().day() == 2 ||
+      this.now().day() == 3 ||
+      this.now().day() == 4
     )
   }
 }
