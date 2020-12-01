@@ -85,4 +85,17 @@ export default class Time {
   isWeekend() {
     return this.now().day() == 6 || this.now().day() == 0
   }
+
+  /**
+   * Are we the weekday (Sunday, Tuesday, Wednesday, Thursday)
+   * @return bool
+   */
+  isWeekday() {
+    return (
+      this.now().day() == 1 ||
+      this.now().day() == 2 ||
+      this.now().day() == 3 ||
+      this.now().day() == 4
+    )
+  }
 }

@@ -65,7 +65,7 @@ class Page extends React.Component {
                 : 'https://shouldideploy.today/yes.png'
             }
           />
-          <title>Should I Deploy Today?</title>
+          <title>Vai Dar Praia?</title>
         </Head>
         <div className={`wrapper ${this.state.now.isFriday() && 'its-friday'}`}>
           <div className="aligner">
