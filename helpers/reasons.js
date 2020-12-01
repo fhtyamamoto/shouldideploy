@@ -1,89 +1,47 @@
-export const REASONS_TO_DEPLOY = [
-  "I don't see why not",
-  "It's a free country",
-  'Go ahead my friend!',
-  'Go for it',
-  'Go go go go!',
-  "Let's do it!",
-  'Ship it! 🚢',
-  'Go with the flow 🌊',
-  'Harder better faster stronger',
-  'Rock on!',
-  'Make me proud',
-  'Break a leg!',
-  'This Is the Way',
-  'Strike First, Strike Hard, No Mercy!'
+export const REASONS_PRAIOU = [
+  "Não vejo por que não!",
+  "Bora",
+  'Só vai, meu amigo!',
+  'Só vamo!',
+  'bora bora bora',
+  "Se joga!",
+  'Meti o pé e fui!',
+  'Como uma onda no mar 🌊',
+  'Não esquece dos óculos',
+  'Leva o protetor!',
+  'Hoje tem futevolei!',
+  'Hoje tem altinha!',
+  'Hoje tem surfe!',
+  'Pode ligar pra galera!',
+  'Pula de cabeça!'
 ]
 
-export const REASONS_TO_NOT_DEPLOY = [
-  "I wouldn't recommend it",
-  "No, it's Friday",
-  'What about Monday?',
-  'Not today',
+export const REASONS_CHUVOU = [
+  "Eu não recomendo...",
+  'Que tal no próximo final de semana?',
+  'Hoje, não',
   'Nope',
-  'Why?',
-  'Did the tests pass? Probably not',
+  'Já era',
   '¯\\_(ツ)_/¯',
   '😹',
-  'No',
-  'No. Breathe and count to 10, start again'
-]
-
-export const REASONS_FOR_THURSDAY_AFTERNOON = [
-  'You still want to sleep?',
-  'Call your partner!',
-  'Gonna stay late today?',
-  'Tell your boss that you found a bug and go home',
-  'What about Monday?',
-  "I wouldn't recommend it",
-  'Not today',
-  'Nope',
-  'No. Breathe and count to 10, start again'
-]
-
-export const REASONS_FOR_FRIDAY_AFTERNOON = [
-  'Not by any chance',
-  'U mad?',
-  'What you are thinking?',
+  'Não',
+  'Não. Respira, conta até 10 e tenta de novo',
+  'Partiu dormir?',
+  'Melhor um filminho...',
+  'Liga pra galera do futvolei e fala que não vai rolar',
+  'Não tem nem chance',
+  'Tá doido?',
+  'Quer levar um caixote?',
   'No no no no no no no no',
-  'How do you feel about working nights and weekends?',
-  '🔥 🚒 🚨 ⛔️ 🔥 🚒 🚨 ⛔️ 🔥 🚒 🚨 ⛔️',
-  'No! God! Please! No',
-  'No no no no no no no!',
-  'Keep dreaming darling',
-  'Why why Bro why?',
-  'But but but... why?'
+  'Já viu o tamanho da onda?',
+  'Tchotchora',
+  'Já andou de helicoptero salva-vidas?'
 ]
 
-export const REASONS_FOR_FRIDAY_13TH = [
-  "Man, really? It's friday the 13th!",
-  'Do you believe in bad luck?',
-  'Jason is watching you',
-  'If you want to spend your weekend in Crystal Lake, go ahead',
-  'To pray is no help if you take this bad decision',
-  'Did you look at the calendar today?',
-  '📅 Friday the 13th. What do you think about it?',
-  'Just no!',
-  'But but but... why?'
-]
-
-export const REASONS_FOR_AFTERNOON = [
-  'You still want to sleep?',
-  'Call your partner!',
-  'Gonna stay late today?',
-  'Tomorrow?',
-  'No',
-  'Tell your boss that you found a bug and go home',
-  'You have full day ahead of you tomorrow!',
-  "Trust me, (s)he will be much happier if it wasn't broken for a night",
-  'How much do you trust your logging tools?'
-]
-
-export const REASONS_FOR_WEEKEND = [
-  "Go home, you're drunk",
-  'How about Monday?',
-  'Beer?',
-  'Drunk development is not a good idea!',
-  'I see you deployed on Friday',
-  'Told you that Monday would be a better idea!'
+export const REASONS_WEEKDAYS = [
+  "Já ouviu falar de desemprego?",
+  'Que tal no fim de semana?',
+  'Seu chefe tá vendo!',
+  'Te vejo no Sábado',
+  'Melhor guardar pro fimde!'
 ]
