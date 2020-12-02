@@ -4,29 +4,17 @@ export default () => (
   <>
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <meta
-      name="description"
-      content="Partiu praia?"
-    />
+    <meta name="description" content="Partiu praia?" />
 
     <meta itemProp="name" content="Vai Dar Praia" />
-    <meta
-      itemProp="description"
-      content="Partiu praia?"
-    />
+    <meta itemProp="description" content="Partiu praia?" />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Vai Dar Praia" />
-    <meta
-      name="twitter:description"
-      content="Partiu praia?"
-    />
+    <meta name="twitter:description" content="Partiu praia?" />
 
     <meta property="og:title" content="Vai Dar Praia" />
-    <meta
-      property="og:description"
-      content="Partiu praia?"
-    />
+    <meta property="og:description" content="Partiu praia?" />
     <meta property="og:url" content="https://vaidarpraia.vercel.app/" />
     <meta property="og:site_name" content="Vai Dar Praia" />
     <meta property="og:type" content="website" />
