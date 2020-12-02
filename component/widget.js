@@ -1,5 +1,5 @@
 import React from 'react'
-import Konami from 'react-konami-code';
+import Konami from 'react-konami-code'
 import { getRandom, dayHelper } from '../helpers/constants'
 export default class Widget extends React.Component {
   /**
@@ -13,7 +13,7 @@ export default class Widget extends React.Component {
       timezone: this.props.now.timezone,
       reason: getRandom(this.getReasons()),
       tryAgainText: 'Chora pra São Pedro de novo!',
-      rageClickCount: 0,
+      rageClickCount: 0
     }
   }
 
@@ -61,12 +61,12 @@ export default class Widget extends React.Component {
    * @return void
    */
   onHiddenClick = () => {
-    const currentCount = this.state.rageClickCount;
-    
+    const currentCount = this.state.rageClickCount
+
     if (currentCount > 5) {
-      this.easterEgg();
+      this.easterEgg()
     }
-    this.setState({ rageClickCount: currentCount + 1 });
+    this.setState({ rageClickCount: currentCount + 1 })
   }
 
   /**
