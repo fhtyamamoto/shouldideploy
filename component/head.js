@@ -6,28 +6,28 @@ export default () => (
     <meta name="viewport" content="width=device-width" />
     <meta
       name="description"
-      content="A friendly reminder to all Developers, Designers, CEO's"
+      content="Partiu praia?"
     />
 
     <meta itemProp="name" content="Vai Dar Praia" />
     <meta
       itemProp="description"
-      content="A friendly reminder to all Developers, Designers, CEO's"
+      content="Partiu praia?"
     />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Vai Dar Praia" />
     <meta
       name="twitter:description"
-      content="A friendly reminder to all Developers, Designers, CEO's"
+      content="Partiu praia?"
     />
 
     <meta property="og:title" content="Vai Dar Praia" />
     <meta
       property="og:description"
-      content="A friendly reminder to all Developers, Designers, CEO's"
+      content="Partiu praia?"
     />
-    <meta property="og:url" content="https://shouldideploy.today" />
+    <meta property="og:url" content="https://vaidarpraia.vercel.app/" />
     <meta property="og:site_name" content="Vai Dar Praia" />
     <meta property="og:type" content="website" />
 
